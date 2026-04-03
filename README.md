@@ -25,7 +25,6 @@ Built as a demonstration of modern frontend development practices using React, T
 
 ## ✨ Features
 
-- ➕ **Add Transactions** — Log income or expense entries with a description, amount, and category
 - 📂 **Smart Categorization** — Organize transactions by category (e.g., Food, Salary, Rent, Entertainment)
 - ⚡ **Real-Time Balance** — Balance, total income, and total expenses update instantly on every action
 - 📋 **Transaction History Table** — View all past transactions in a clean, sortable table
