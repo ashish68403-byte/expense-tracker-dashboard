@@ -30,6 +30,7 @@ Built as a demonstration of modern frontend development practices using React, T
 - 📋 **Transaction History Table** — View all past transactions in a clean, sortable table
 - 📱 **Responsive UI** — Fully functional across desktop, tablet, and mobile devices
 - 🎨 **Clean Interface** — Minimalist design focused on usability and readability
+- 💾 **Persistent Storage** — Transactions are saved using localStorage and persist across sessions
 - 🌙 **Dark Mode Toggle** — Switch between light and dark themes for better usability
 
 ---
@@ -131,7 +132,6 @@ expense-tracker-dashboard/
 
 - [ ] 📊 Visual charts for income vs. expense trends (Recharts / Chart.js)
 - [ ] 🗓️ Filter transactions by date range or category
-- [ ] 💾 Persistent storage via `localStorage` or a backend API
 - [ ] 🔐 User authentication and multi-account support
 - [ ] 📤 Export transactions to CSV or PDF
 
